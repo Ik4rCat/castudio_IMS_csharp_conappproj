@@ -1,0 +1,15 @@
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/bin/Debug/net10.0/castudio_IMS
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/bin/Debug/net10.0/castudio_IMS.deps.json
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/bin/Debug/net10.0/castudio_IMS.runtimeconfig.json
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/bin/Debug/net10.0/castudio_IMS.dll
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/bin/Debug/net10.0/castudio_IMS.pdb
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.GeneratedMSBuildEditorConfig.editorconfig
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.AssemblyInfoInputs.cache
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.AssemblyInfo.cs
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.csproj.CoreCompileInputs.cache
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.sourcelink.json
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.dll
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/refint/castudio_IMS.dll
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.pdb
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/castudio_IMS.genruntimeconfig.cache
+/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/Debug/net10.0/ref/castudio_IMS.dll
