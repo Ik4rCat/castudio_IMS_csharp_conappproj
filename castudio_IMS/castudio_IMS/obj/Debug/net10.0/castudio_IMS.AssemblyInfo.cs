@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("castudio_IMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92699c2d581f3790e0545a72328a03904ebb18ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d3f54c0d6cac0fea2d2f976241a1baae6755f55")]
 [assembly: System.Reflection.AssemblyProductAttribute("castudio_IMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("castudio_IMS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
