@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj": {}
+    "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj": {}
   },
   "projects": {
-    "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj": {
+    "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
+        "projectUniqueName": "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
         "projectName": "castudio_IMS",
-        "projectPath": "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
-        "packagesPath": "/home/altemma/.nuget/packages/",
-        "outputPath": "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/",
+        "projectPath": "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
+        "packagesPath": "/home/altwk/.nuget/packages/",
+        "outputPath": "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/altemma/.nuget/NuGet/NuGet.Config"
+          "/home/altwk/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
