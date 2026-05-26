@@ -8,24 +8,25 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/home/altwk/.nuget/packages/": {}
+    "/home/altemma/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
+      "projectUniqueName": "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
       "projectName": "castudio_IMS",
-      "projectPath": "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
-      "packagesPath": "/home/altwk/.nuget/packages/",
-      "outputPath": "/home/altwk/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/",
+      "projectPath": "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/castudio_IMS.csproj",
+      "packagesPath": "/home/altemma/.nuget/packages/",
+      "outputPath": "/home/altemma/projects/college/csharp_conappproj/castudio_IMS/castudio_IMS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/altwk/.nuget/NuGet/NuGet.Config"
+        "/home/altemma/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "/usr/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +64,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[10.0.4, 10.0.4]"
+            "version": "[10.0.8, 10.0.8]"
           }
         ],
         "frameworkReferences": {
@@ -71,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.108/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
